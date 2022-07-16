@@ -1,0 +1,4 @@
+idempotent:幂等性工具
+1.实现IdempotentManager
+2.配置IdempotentAspect
+3.在方法上添加@Idempotent
